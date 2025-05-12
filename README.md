@@ -2,8 +2,8 @@
 
 **Author | مصنف:** Yasin Ullah (Pakistani | پاکستانی) 👤
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat-square)](https://github.com/your-username/your-repo-name/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo-name?style=flat-square)](https://github.com/your-username/your-repo-name)
+[![GitHub last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?style=flat-square)](https://github.com/yasinULLAH/fatawa-and-fiqh)
+[![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo-name?style=flat-square)](https://github.com/yasinULLAH/fatawa-and-fiqh)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE) <!-- Add a LICENSE file if you have one -->
 
 ---
