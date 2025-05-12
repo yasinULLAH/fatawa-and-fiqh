@@ -475,11 +475,11 @@ if(!localStorage.db){
 				}else{
 					Words = stringData.split("\n")
 				}
-				localforage.setItem("Data",stringData,function(){localStorage.db="2"})
+				localforage.setItem("QuranData",stringData,function(){localStorage.db="3"})
 				theRand()
 			}
 		});
-}else if(localStorage.db=="1"){
+}else if(localStorage.db == "2"){
 		var Words;
 		var stringData;
 		$.ajax({
@@ -512,12 +512,12 @@ if(!localStorage.db){
 				}else{
 					Words = stringData.split("\n")
 				}
-				localforage.setItem("Data",stringData,function(){localStorage.db="2"})
+				localforage.setItem("QuranData",stringData,function(){localStorage.db="3"})
 				theRand()
 			}
 		});
 }else{
-			localforage.getItem('Data').then(function(value) {
+			localforage.getItem('QuranData').then(function(value) {
 			document.getElementById("txt").placeholder = " تلاش یہاں سے شروع کریں"
 			document.getElementById("txt").style.opacity = "1";
 			stringData = value;
